@@ -1,0 +1,3 @@
+2.1) 7 plansz z pustymi kolumnami, największa liczba pustych kolumn na planszy - 5
+2.2) ilość zrównoważonych plansz : 8, najmniejsza suma bierek : 4
+2.3) Wygrana białych : 2, czarnych : 0
